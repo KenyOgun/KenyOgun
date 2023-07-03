@@ -6,7 +6,7 @@ Frontend Developer
 
 *   🌍  I'm based in Hamilton, ON
 *   ✉️  You can contact me at [ogunnigbokehinde@yahoo.com](mailto:ogunnigbokehinde@yahoo.com)
-*   🧠  I'm learning TypeScript
+*   🧠  I'm learning SAS
 
 ### Skills 
 <p align="left">
