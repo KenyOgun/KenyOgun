@@ -3,6 +3,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ------------------
 
 *   🌍  I'm based in Birmingham, United Kingdom
-*   ✉️  You can contact me at [ogunnigbokehinde@yahoo.com](mailto:ogunnigbokehinde@yahoo.com)
-*   🧠  I'm studying MSc Business Analytics
                   
