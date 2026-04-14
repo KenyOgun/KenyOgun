@@ -28,11 +28,6 @@ I’m passionate about helping organizations make smarter, data-informed decisio
 
 ---
 
-### 🌟 Featured Projects  
-
-- 🏢 [**Adventure Works Power BI Dashboard**](#) — Interactive executive dashboard analyzing sales, profitability, and customer segmentation.  
-- 🌍 [**ESG & Sustainability Insights**](#) — Data visualization project using open APIs to monitor UK decarbonization progress.  
-- 💳 [**Credit Risk Modelling (Python)**](#) — Machine learning project predicting loan defaults with explainable AI methods.  
 
 ---
 
