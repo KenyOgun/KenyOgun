@@ -29,8 +29,6 @@ I’m passionate about helping organizations make smarter, data-informed decisio
 ---
 
 
----
-
 ### 📫 Connect With Me  
 
 - 🌐 [LinkedIn](#)  
