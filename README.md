@@ -1,30 +1,36 @@
-# 👋 Hi, I'm Kehinde  
+# 👋 Hi, I'm Kehinde
 
-### 🎯 Data Professional | Analytics Engineer | Machine Learning Enthusiast  
+🎯 **Power Platform Developer | Business Intelligence & Fabric Solutions Specialist**
 
-I'm a data professional with 5+ years of experience transforming raw data into actionable insights.  
-My work spans data analytics, predictive modeling, and automation — with a focus on building scalable, business-driven solutions.  
-I’m passionate about helping organizations make smarter, data-informed decisions.  
+I am a Data & Automation Professional with 5+ years of experience transforming complex raw data into automated business workflows and executive decision-making tools. My work focuses on end-to-end Microsoft ecosystem architecture — combining **Microsoft Fabric**, **Power BI**, **Power Apps**, and **Power Automate** to streamline operations, optimize ETL/ELT pipelines, and drive data-backed strategy.
 
 ---
 
-### 🧠 What I Do  
-- 📊 **Data Analysis & BI:** Turning business questions into clear, data-backed insights using SQL, Python, and Power BI.  
-- 🤖 **Machine Learning:** Building and deploying models for forecasting, classification, and optimization.  
-- ⚙️ **Analytics Engineering:** Designing efficient data pipelines and ETL processes for reliable analytics at scale.  
-- 📈 **Data Storytelling:** Communicating complex analytics in a simple, visual, and strategic way.  
+🧠 **What I Do**
+
+* 📊 **Microsoft Fabric & Enterprise BI:** Designing scalable OneLake Lakehouses, direct lake semantic models, DAX measures, and high-impact Power BI dashboards.
+* ⚡ **Power Platform & Business Automation:** Building custom Power Apps (Canvas & Model-Driven) integrated with Power Automate flows to digitize manual business processes and replace paper/Excel workflows.
+* 🛠️ **Data Engineering & ETL:** Building automated pipelines across Microsoft Fabric Data Factory, SQL, and Azure Data Factory for reliable data ingestion and transformation.
+* 📈 **Advanced Analytics & Decision Science:** Bridging business questions with technical execution using SQL, Python, and data storytelling to maximize ROI.
 
 ---
 
-### 🛠️ Tech Stack  
+🛠️ **Tech Stack**
 
-| Category | Tools |
-|-----------|-------|
-| **Languages** | Python (Pandas, NumPy, Scikit-learn), SQL |
-| **Visualization** | Power BI, Tableau, Plotly |
-| **Data Engineering** | dbt, Airflow, Google BigQuery, Azure Data Factory |
-| **Machine Learning** | scikit-learn, TensorFlow, XGBoost |
-| **Other Tools** | Excel, Git, Jupyter Notebooks |
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Microsoft Power Platform** | Power BI (DAX, Power Query/M), Power Apps (Canvas, Model-Driven), Power Automate |
+| **Microsoft Fabric & Azure** | Microsoft Fabric (OneLake, Lakehouse, Data Warehouse, Data Factory), Azure Data Factory, Azure SQL |
+| **Data Engineering & SQL** | SQL (T-SQL, PostgreSQL), dbt, Airflow, Pipeline Orchestration |
+| **Languages & Analytics** | Python (Pandas, NumPy, Scikit-learn), Excel (Advanced/VBA), R |
+| **Version Control & DevOps** | Git, GitHub, Power BI Deployment Pipelines, ALM |
+
+---
+
+📫 **Connect with Me**
+
+* 💼 **LinkedIn:** [Insert LinkedIn Profile Link]
+* ✉️ **Email:** [Insert Email Address]
 
 ---
 
